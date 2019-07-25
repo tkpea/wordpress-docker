@@ -1,0 +1,5 @@
+wordpress
+.db/data
+.db/phpmyadmin
+.db/sql
+.DS_Store
