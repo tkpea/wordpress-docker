@@ -2,4 +2,5 @@ wordpress
 .db/data
 .db/phpmyadmin
 .db/sql
+.env
 .DS_Store
