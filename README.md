@@ -9,13 +9,11 @@ http://localhost:8000
 http://localhost:8001
 
 ## コンテナの中に入る
-$ docker exec -i -t --user 1000 wordpress-docker_wordpress_1 bash
+$ docker exec -i -t --user wordpress wordpress-docker_wordpress_1 bash
 
 ### WP-CLI
 $ wp --version
 
-### WordMove
-$ wordmove -version
 
 ### composer
 $ composer --version

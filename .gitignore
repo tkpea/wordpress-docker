@@ -1,4 +1,5 @@
 wordpress
+app
 .db/data
 .db/phpmyadmin
 .db/sql
